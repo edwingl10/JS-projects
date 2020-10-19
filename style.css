@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+.gallery{
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-gap: 100px;
+}
+.project img{
+    width: 20%;
+    height: 20%;
+    object-fit: cover;
+}
