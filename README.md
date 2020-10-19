@@ -15,3 +15,6 @@ Displays a slider of reviews. Allows you to go to next review, previous and get 
 
 # Navbar Project
 Added responsive navbar. Can click hamburger menu to show and hide navigtion links.
+
+# Sidebar Project
+Added sidebar with navigation links. Clicking on the hamburger menu opens and closes sidebar.
