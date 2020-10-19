@@ -12,3 +12,6 @@ Displays a counter on the screen. Allows you to decrease, reset and increase cou
 
 # Reviews Project
 Displays a slider of reviews. Allows you to go to next review, previous and get a random review. A review card contains an img, name, job, and description of the person. The information is fetched from reviews object in js file.
+
+# Navbar Project
+Added responsive navbar. Can click hamburger menu to show and hide navigtion links.
